@@ -1,4 +1,4 @@
-// Dada uma matriz inteira nums de comprimento n, você deseja criar uma matriz ans de comprimento 2n 
+// Dada uma matriz inteira nums de comprimento n, você deseja criar uma matriz ans de comprimento 2n. 
 // onde ans[i] == nums[i] e ans[i + n] == nums[i] para 0 <= i < n (0-indexado). 
 // Especificamente, ans é o concatenação de dois nums matrizes. Retornar a matriz ans.
 

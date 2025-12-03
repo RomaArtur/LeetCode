@@ -1,5 +1,5 @@
-// Dada a matriz nums consistindo de 2n elementos na forma .[x1,x2,...,xn,y1,y2,...,yn]
-// Retorne a matriz no formulário .[x1,y1,x2,y2,...,xn,yn]
+// Dada a matriz nums consistindo de 2n elementos na forma .[x1,x2,...,xn,y1,y2,...,yn].
+// Retorne a matriz no formulário .[x1,y1,x2,y2,...,xn,yn].
 
 arr = [2,5,1,3,4,7];
 
